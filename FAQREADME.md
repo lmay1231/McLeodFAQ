@@ -1,4 +1,3 @@
-intents: 
 # greeting
 ## Hi Hey Is anyone there? Hello Hay
 ## Hello Hi Hi there
