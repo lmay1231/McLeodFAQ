@@ -1,81 +1,65 @@
 
 
-# greeting
 ## Hi Hey Is anyone there? Hello Hay
 ## Hello Hi Hi there
 
 
-# goodbye
 ## Bye See you later Goodbye
 ## See you later Have a nice day Bye! Come back again
 
 
-# thanks
 ## Thanks Thank you That's helpful Thanks for the help
 ## Happy to help! Any time! My pleasure You're most welcome!
 
 
-# about
 ## Who are you? What are you? Who you are?
 ## I'm Tom your bot assistant I'm Tom an Artificial Intelligent bot
 
 
-# name
 ## what is your name what should I call you what’s your name?
 ## You can call me Tom. I'm Tom! Just call me Tom
 
 
-# help
 ## Could you help me? give me a hand please Can you help? What can you do for me? I need support I need help support me please
 ## Tell me how I can assist you Tell me your problem so I can assist you Yes how can I support you
 
 
-# createaccount
 ## I need to create a new account how to open a new account I want to create an account can you create an account for me how to open a new account
 ## Please contact Data Science at datascience@mcleodsoftware.com  Just go to our web site and follow the guidelines to create a new account
 
 
-# complaint
 ## have a complaint I want to raise a complaint there is a complaint about a service
 ## Please provide us your complaint in order to assist you Please mention your complaint we will reach you and sorry for any inconvenience caused
 
 
-# mpact
 ## where does this data come from? What data is this? What is MPact Pro?
 ## This data is sent to us from McLeod Customers who participate in our Market Insight program. We have over 1000 unique companies that contribute
 
 
-# mpact data updated
 ## How often is Mpact Pro updated? How often is this data updated> How often is this data refreshed?
 ## We received data from our customers daily. MPact is updated each day.
 
 
-# rate data
 ## What is included in the rate data What does the rate data include? What is in the rate data What is rate data
 ## Rates are linehaul rates only. Fuel and other additional charges are removed from the rates.
 
 
-# criteria
 ## What is the criteria for the orders in MPact Pro? What criteria is used for MPact pro data? Criteria for MPact Pro orders?
 ## Orders with the trailer type of Flatbed Van or Reefer are used in MPact. Additionally the order must be InProgress or Delivered.
 
 
-# date
 ## What date range is used for the date range filter? What dates filters are used? What dates are used for MPact pro?
 ## Actual ship date (when the load was put in progress) is the date that is used.
 
 
-# zones
 ## What areas are defined in the Origin/Destination zones? What origin and destination areas are used? Origin and destination filters used for Mpact Pro What zones are used?
 ## These areas match the base zones in Loadmaster and Power Broker.
 
 
-# buy rate
 ## What is Buy Rate? How is buy rate defined? What do you mean by buy rate? How do you define buy rate? How do you calculate buy rate? How is buy rate calculated
 ## Buy or Spot rate is what our brokerage customers pay their carriers. Spot rates only appear on brokered loads.
 
 
-# sell rate
 ## What is sell rate? How is sell rate defined? What do you mean by sell rate? How do you define sell rate? How do you calculate sell rate? How is sell rate calculated
 ## Billed or Sell rate is what McLeod customers charge their customers. This includes both asset-based carriers and brokerage customers. The filter can change between the two.
 
