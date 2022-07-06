@@ -1,33 +1,42 @@
 # McLeodFAQ
 Place to host FAQ's for Virtual Agent
-intents: 
+intents:
+
+
 # greeting
 ## Hi Hey Is anyone there? Hello Hay
 ## Hello Hi Hi there
+
 
 # goodbye
 ## Bye See you later Goodbye
 ## See you later Have a nice day Bye! Come back again
 
+
 # thanks
 ## Thanks Thank you That's helpful Thanks for the help
 ## Happy to help! Any time! My pleasure You're most welcome!
+
 
 # about
 ## Who are you? What are you? Who you are?
 ## I'm Tom your bot assistant I'm Tom an Artificial Intelligent bot
 
+
 # name
 ## what is your name what should I call you what’s your name?
 ## You can call me Tom. I'm Tom! Just call me Tom
+
 
 # help
 ## Could you help me? give me a hand please Can you help? What can you do for me? I need support I need help support me please
 ## Tell me how I can assist you Tell me your problem so I can assist you Yes how can I support you
 
+
 # createaccount
 ## I need to create a new account how to open a new account I want to create an account can you create an account for me how to open a new account
 ## Please contact Data Science at datascience@mcleodsoftware.com  Just go to our web site and follow the guidelines to create a new account
+
 
 # complaint
 ## have a complaint I want to raise a complaint there is a complaint about a service
