@@ -1,55 +1,68 @@
 
 
-# Hi Hey Is anyone there? Hello Hay
-Hello Hi Hi there
+# greeting
+## Hi Hey Is anyone there? Hello Hay
+## Hello Hi Hi there
 
 
-# Bye See you later Goodbye
-See you later Have a nice day Bye! Come back again
+# goodbye
+## Bye See you later Goodbye
+## See you later Have a nice day Bye! Come back again
 
 
-# Thanks Thank you That's helpful Thanks for the help
-Happy to help! Any time! My pleasure You're most welcome!
+# thanks
+## Thanks Thank you That's helpful Thanks for the help
+## Happy to help! Any time! My pleasure You're most welcome!
 
 
-# Who are you? What are you? Who you are?
-I'm Tom your bot assistant I'm Tom an Artificial Intelligent bot
+# about
+## Who are you? What are you? Who you are?
+## I'm Tom your bot assistant I'm Tom an Artificial Intelligent bot
 
 
-# what is your name what should I call you what’s your name?
-You can call me Tom. I'm Tom! Just call me Tom
+# name
+## what is your name what should I call you what’s your name?
+## You can call me Tom. I'm Tom! Just call me Tom
 
 
-# Could you help me? give me a hand please Can you help? What can you do for me? I need support I need help support me please
-Tell me how I can assist you Tell me your problem so I can assist you Yes how can I support you
+# help
+## Could you help me? give me a hand please Can you help? What can you do for me? I need support I need help support me please
+## Tell me how I can assist you Tell me your problem so I can assist you Yes how can I support you
 
 
-# I need to create a new account how to open a new account I want to create an account can you create an account for me how to open a new account
-Please contact Data Science at datascience@mcleodsoftware.com  Just go to our web site and follow the guidelines to create a new account
+# createaccount
+## I need to create a new account how to open a new account I want to create an account can you create an account for me how to open a new account
+## Please contact Data Science at datascience@mcleodsoftware.com  Just go to our web site and follow the guidelines to create a new account
 
 
-# have a complaint I want to raise a complaint there is a complaint about a service
-Please provide us your complaint in order to assist you Please mention your complaint we will reach you and sorry for any inconvenience caused
+# complaint
+## have a complaint I want to raise a complaint there is a complaint about a service
+## Please provide us your complaint in order to assist you Please mention your complaint we will reach you and sorry for any inconvenience caused
 
 
-# where does this data come from? What data is this? What is MPact Pro?
-This data is sent to us from McLeod Customers who participate in our Market Insight program. We have over 1000 unique companies that contribute
+# mpact
+## where does this data come from? What data is this? What is MPact Pro?
+## This data is sent to us from McLeod Customers who participate in our Market Insight program. We have over 1000 unique companies that contribute
 
 
-# How often is Mpact Pro updated? How often is this data updated> How often is this data refreshed?
-We received data from our customers daily. MPact is updated each day.
+# mpact data updated
+## How often is Mpact Pro updated? How often is this data updated> How often is this data refreshed?
+## We received data from our customers daily. MPact is updated each day.
 
 
-# What is included in the rate data What does the rate data include? What is in the rate data What is rate data
-Rates are linehaul rates only. Fuel and other additional charges are removed from the rates.
+# rate data
+## What is included in the rate data What does the rate data include? What is in the rate data What is rate data
+## Rates are linehaul rates only. Fuel and other additional charges are removed from the rates.
 
 
-# What is the criteria for the orders in MPact Pro? What criteria is used for MPact pro data? Criteria for MPact Pro orders?
-Orders with the trailer type of Flatbed Van or Reefer are used in MPact. Additionally the order must be InProgress or Delivered.
+# criteria
+## What is the criteria for the orders in MPact Pro? What criteria is used for MPact pro data? Criteria for MPact Pro orders?
+## Orders with the trailer type of Flatbed Van or Reefer are used in MPact. Additionally the order must be InProgress or Delivered.
 
 
-# What date range is used for the date range filter? What dates filters are used? What dates are used for MPact pro?
-Actual ship date (when the load was put in progress) is the date that is used.
+# date
+## What date range is used for the date range filter? What dates filters are used? What dates are used for MPact pro?
+## Actual ship date (when the load was put in progress) is the date that is used.
 
 
 # zones
